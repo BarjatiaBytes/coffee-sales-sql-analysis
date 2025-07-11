@@ -1,4 +1,4 @@
-![Coffee SQL Banner](coffee-banner.png)
+![Coffee SQL Banner](Banner.jpeg)
 
 Analyze coffee sales across different Indian cities using SQL...
 # ☕ Coffee Sales SQL Analysis
