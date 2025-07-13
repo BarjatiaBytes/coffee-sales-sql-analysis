@@ -34,7 +34,7 @@ Analyze coffee sales across different Indian cities using SQL. This project incl
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Priyanshu Barjatia**  
 Aspiring Data Analyst | SQL Enthusiast | Self-Taught Learner
