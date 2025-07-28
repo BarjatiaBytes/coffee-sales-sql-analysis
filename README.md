@@ -1,6 +1,5 @@
 ![Coffee SQL Banner](Banner.jpeg)
 
-Analyze coffee sales across different Indian cities using SQL...
 #  Coffee Expansion Analysis with SQL
 
 Analyze coffee sales across different Indian cities using SQL. This project includes real business questions and powerful insights from structured data.
